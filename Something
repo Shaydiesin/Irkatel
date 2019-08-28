@@ -1,1 +1,2 @@
-print('PAss')
+if True:
+  print('PAss')
